@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  RecipeListView.swift
 //  Recipe List App
 //
 //  Created by David Estrada on 7/26/21.
@@ -39,6 +39,7 @@ struct RecipeListView: View {
 
 struct RecipeListView_Previews: PreviewProvider {
     static var previews: some View {
+        
         RecipeListView()
     }
 }
