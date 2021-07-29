@@ -24,6 +24,7 @@ struct RecipeTabView: View {
                     VStack{
                         Image(systemName: "list.bullet")
                         Text("List")
+                        
                     }
                 }
         }.environmentObject(RecipeModel())
